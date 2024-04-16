@@ -1,30 +1,38 @@
-![Screenshot 2024-04-14 182749](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/78d43a37-656c-446d-a3e5-34899a8fa7aa)
+
+![Screenshot 2024-04-14 182749](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/5790cbbc-d827-4196-b34c-4a6c7caf6de5)
+
 1) Le dossier TP1anasMansour 
 
 1.1 Injection des dépendances par instanciation statique => new
 
-   ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/fb82b599-2995-4505-92b8-6ddd5245bb6e)
+   
+![Screenshot 2024-04-16 173110](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/7f4dcf5a-b443-411b-8e37-f9315a327b23)
 
-  ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/36417365-cccb-4acd-9195-cc1ae44ab55b)
+![Screenshot 2024-04-16 173306](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/e76f138d-ab01-491e-a54a-87481d5977c2)
+
 
 le resultat : 
 
-  ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/2b2f4510-2e53-4a77-90ba-90aad8e543ce)
 
-   
+   ![Screenshot 2024-04-16 173226](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/14fdc56c-117b-41b7-be3c-2c1ec57b049d)
+
 1.2 on utilise la methode de confige.txt
    
+![Screenshot 2024-04-16 171931](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/f8900486-1e65-40a4-95b7-301e13f04ea5)
 
-![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/c301a247-9b9f-4f24-a457-d137c1804e65)
 
 par exemple : 
 
-![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/ce3fcba7-c20c-4c0a-9e76-2c69050b3de1)
 
-![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/e95017c5-54d7-40d8-95d5-11e8cb4e9227)
+![Screenshot 2024-04-16 172228](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/41928c82-59ae-41e4-b92c-e3e11218b69d)
+
+![Screenshot 2024-04-16 173352](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/43286eba-3963-4941-9533-38a09f78d99b)
+
 
 le resultat : 
 
-  ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/773e9a79-428a-494c-8279-7b0a8713f77f)
+  
+![Screenshot 2024-04-16 173457](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/961f1e16-870b-4652-8578-2451d6ed8b57)
+
 
   
