@@ -38,3 +38,20 @@ le resultat :
 
 2) le dossier Mansour_Anas_IOC_spring
   
+   2.1 UTILISATION DE SPRING ANNOTATION
+
+      ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/3235d668-297a-4892-a676-92fe9386b086)
+
+      ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/288793cc-6bc1-4a4c-85c3-d8b710dd50ab)
+   2.2 UTILISATION DE SPRING XML
+
+      ![Screenshot 2024-04-16 181627](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/cfb19111-1e22-4742-8112-560c3fa6d1ee)
+   
+      ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/2b76ce18-1a7b-49a6-ba64-6a0ad1b154ae)
+
+      ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/5dc220bc-057a-4a59-89f5-044ddbe447f6)
+
+
+      
+
+
