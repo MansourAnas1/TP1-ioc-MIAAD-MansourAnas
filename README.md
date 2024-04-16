@@ -1,7 +1,8 @@
 
 ![Screenshot 2024-04-14 182749](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/5790cbbc-d827-4196-b34c-4a6c7caf6de5)
 
-1) Le dossier TP1anasMansour 
+1)  le dossier Mansour_Anas_IOC
+
 
 1.1 Injection des dépendances par instanciation statique => new
 
@@ -35,4 +36,5 @@ le resultat :
 ![Screenshot 2024-04-16 173457](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/961f1e16-870b-4652-8578-2451d6ed8b57)
 
 
+2) le dossier Mansour_Anas_IOC_spring
   
