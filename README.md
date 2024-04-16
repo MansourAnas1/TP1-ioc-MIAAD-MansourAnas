@@ -43,6 +43,7 @@ le resultat :
       ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/3235d668-297a-4892-a676-92fe9386b086)
 
       ![image](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/288793cc-6bc1-4a4c-85c3-d8b710dd50ab)
+
    2.2 UTILISATION DE SPRING XML
 
       ![Screenshot 2024-04-16 181627](https://github.com/MansourAnas1/TP1-ioc-MIAAD-MansourAnas/assets/167020036/cfb19111-1e22-4742-8112-560c3fa6d1ee)
